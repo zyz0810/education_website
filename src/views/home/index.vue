@@ -1,6 +1,6 @@
 <template>
   <div class="app-container">
-    <el-carousel height="777px" :autoplay="false">
+    <el-carousel height="777px">
         <el-carousel-item>
         <div class="home_banner">
           <div class="banner_left">
@@ -63,7 +63,7 @@
             <div class="top_img"><img src="./../../assets/image/home_img03.jpg"/></div>
             <div class="text_cont">
               <p class="text_cont_one">隐私</p>
-              <p class="text_cont_two">隐私：平台所有使用者均是采用昵称制，在平台不能查看到对方真实姓名、联系方式。</p>
+              <p class="text_cont_two">平台所有使用者均是采用昵称制，在平台不能查看到对方真实姓名、联系方式。</p>
             </div>
           </div>
           <div class="cont_one_cont_item">
